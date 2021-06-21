@@ -18,4 +18,4 @@ console.log(__filename);
 */
 
 globalThis.myVar = 'value';
-console.log(myVar)
+console.log(myVar);
